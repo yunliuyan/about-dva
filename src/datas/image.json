@@ -1,0 +1,26 @@
+{
+	"errCode": 200,
+	"errMsg": "json请求数据出错",
+	"data": [
+                   {
+                       "key": 1,
+                       "name": "my girls",
+                       "url": "example-slide-1.jpg"
+                   },
+                   {
+                        "key": 2,
+                       "name": "my girls",
+                       "url": "example-slide-2.jpg"
+                   },
+                   {
+                      "key": 3,
+                       "name": "my girls",
+                       "url": "example-slide-3.jpg"
+                   },
+                   {
+                         "key": 4,
+                       "name": "my girls",
+                       "url": "example-slide-4.jpg"
+                   }
+	]
+}
